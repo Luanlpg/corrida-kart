@@ -33,13 +33,13 @@ def first_menu():
         # chamo o metodo prt()
         print(prt())
         # armazeno a entrada do usuario na variável opt
-        opt = int(input(CYAN+'\t\t\t>>>'+RESET))
+        opt = input(CYAN+'\t\t\t>>>'+RESET)
         classificacao, top_times = racing.race_posix()
         pilot = create_pilot_obj()
         media = racing.average_speed()
         diff = racing.difference()
         # caso a entrada seja igual a 1...
-        if opt == 1:
+        if opt == '1':
             # mostro o panorama da corrida
             print(BIN*17)
             print(BOUT*17)
@@ -64,7 +64,7 @@ def first_menu():
             print(BOUT*17)
             return first_menu()
         # caso a opção seja 2
-        elif opt == 2:
+        elif opt == '2':
             # mostro o painel de números individuais
             print(BIN*17)
             print(BOUT*17)
