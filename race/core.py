@@ -1,5 +1,4 @@
 from separador import create_pilot_obj
-from pprint import pprint
 from datetime import datetime, timedelta
 
 class FastAndFurious():

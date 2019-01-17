@@ -2,7 +2,6 @@ import sys
 
 from separador import create_pilot_obj
 from core import FastAndFurious
-from pprint import pprint
 
 RED   = "\033[1;31m"
 BLUE  = "\033[1;34m"

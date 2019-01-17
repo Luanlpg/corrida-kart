@@ -1,0 +1,11 @@
+              CORRIDA KART
+
+
+    Olá, este software foi criado baseado em orientação a objeto, deixei as instruções
+de como ele funciona no arquivo README.md. Recomendo que sua utilização seja feita por meio de Sistemas operacionais
+baseados em Linux ou Mac, pois caractéres ANSI foram utilizados para a criação de uma interface mais amigável.
+
+    Fiquei em dúvida em relação a questão da duração total da prova, pois recebi orientação de que a prova
+terminaria quando o primeiro colocado completasse a quarta volta, presume-se então que o tempo
+total de prova é o tempo de prova de F. Massa que é o 1° colocado, por não saber se meu
+raciocínio foi correto e também por achar redundante, decidi não apresentar este resultado.
